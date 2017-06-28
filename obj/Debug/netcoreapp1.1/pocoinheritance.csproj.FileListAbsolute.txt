@@ -1,0 +1,8 @@
+/home/laetadcon0016/Documents/Desktop/stackoverflow/pocoinheritance/bin/Debug/netcoreapp1.1/pocoinheritance.deps.json
+/home/laetadcon0016/Documents/Desktop/stackoverflow/pocoinheritance/bin/Debug/netcoreapp1.1/pocoinheritance.runtimeconfig.json
+/home/laetadcon0016/Documents/Desktop/stackoverflow/pocoinheritance/bin/Debug/netcoreapp1.1/pocoinheritance.runtimeconfig.dev.json
+/home/laetadcon0016/Documents/Desktop/stackoverflow/pocoinheritance/bin/Debug/netcoreapp1.1/pocoinheritance.dll
+/home/laetadcon0016/Documents/Desktop/stackoverflow/pocoinheritance/bin/Debug/netcoreapp1.1/pocoinheritance.pdb
+/home/laetadcon0016/Documents/Desktop/stackoverflow/pocoinheritance/obj/Debug/netcoreapp1.1/pocoinheritance.AssemblyInfo.cs
+/home/laetadcon0016/Documents/Desktop/stackoverflow/pocoinheritance/obj/Debug/netcoreapp1.1/pocoinheritance.dll
+/home/laetadcon0016/Documents/Desktop/stackoverflow/pocoinheritance/obj/Debug/netcoreapp1.1/pocoinheritance.pdb
